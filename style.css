@@ -89,6 +89,7 @@ div .btnhome {
 }
 div .btnhome a {
     font-family: Helvetica;
+    color: rgb(189, 189, 189);
     font-size: 18px;
     text-decoration: none;
     border-radius: 100px;  
@@ -97,10 +98,45 @@ div .btnhome a {
 }
 div .btnhome a:hover {
     background-color: rgb(194, 194, 194);
+    color: rgb(238, 238, 238);
 }
-/*--------------------------------=-------------------------------------------HOME CONTENT           */
+.homefoot {
+    padding-top: 250px;
+}
+
+
+/*----------------------------------------------------------------------------HOME CONTENT           */
 /*---------------------------------------------------------------------------ABOUT CONTENT           */
 
+.containerabout {
+    padding-top: 90px;
+    text-align: center;
+    margin-left: 0px;
+}
+.aboutbanner {
+    color: rgb(95, 95, 95);
+    text-align: center;
+    margin-bottom: -20px;
+}
+.aboutbanner h1 {
+    margin-top: 20px;
+    margin-left: 0px;
+    font-size: 60px;
+}
+.aboutisi {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(224, 224, 224);
+    margin-top : 5px;
+    padding: 15px 25px; 
+    border-radius: 20px;
+}
+.aboutisi h2 {
+    color: rgb(104, 104, 104);
+}
+.aboutisi p {
+    color: rgb(107, 107, 107);
+}
 
 
 /*---------------------------------------------------------------------------ABOUT CONTENT           */
@@ -118,7 +154,7 @@ body .container .judulwork h1 {
     font-size: 55px;
     text-align: center;
     letter-spacing: 5px;
-    color: rgb(85, 85, 85);
+    color: rgb(73, 73, 73);
 }
 .boxwork {
     border-radius: 100px;
