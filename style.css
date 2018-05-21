@@ -171,7 +171,23 @@ body .container .judulwork h1 {
 /*---------------------------------------------------------------------------WORK CONTENT           */
 /*------------------------------------------------------------------------CONTACT CONTENT           */
 
-
+body .containercontact {
+    padding: 90px 150px;
+    text-align: center;
+    color: rgb(109, 109, 109);
+}
+body .containercontact .bannercontact h1{
+    font-size: 50px;
+}
+.boxcont {
+    display: inline-block;  
+    width: 150px;
+    height: 200px;
+    margin: 20px 25px;
+}
+.boxcont img {
+    margin-bottom: 20px;
+}
 
 /*------------------------------------------------------------------------CONTACT CONTENT           */
 /*------------------------------------------------------------------------------- FOOTER           */
