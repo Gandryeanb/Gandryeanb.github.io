@@ -164,6 +164,13 @@ body .container .judulwork h1 {
     display: inline-block;
     text-align: center;
 }
+.boxwork h2 {
+    margin-top: 20px;
+    margin-bottom: 35px;
+    color: rgb(145, 145, 145);
+    font-family: Helvetica;
+    font-size: 20px;
+}
 .clearfix {
     clear: both; /*menghilangkan tarikan float*/
 }
