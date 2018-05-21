@@ -104,7 +104,6 @@ div .btnhome a:hover {
     padding-top: 250px;
 }
 
-
 /*----------------------------------------------------------------------------HOME CONTENT           */
 /*---------------------------------------------------------------------------ABOUT CONTENT           */
 
@@ -121,7 +120,7 @@ div .btnhome a:hover {
 .aboutbanner h1 {
     margin-top: 20px;
     margin-left: 0px;
-    font-size: 60px;
+    font-size: 50px;
 }
 .aboutisi {
     margin-left: 150px;
